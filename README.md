@@ -1,4 +1,6 @@
-> Welcome to this Repo
+
+<img src="https://img.shields.io/badge/khan academy persian [Algebra]-14BF96?style=for-the-badge&logo=khanacademy&logoColor=white"/>
+
 # Algebra
 The first persian documentation of Khan-Academy-Algebra, you can find and learn concept of algebra in here
 
@@ -12,8 +14,7 @@ The first persian documentation of Khan-Academy-Algebra, you can find and learn 
 Coming-Soon...
 
 ---
-
-You can contact me at Telegram: [Reza Moradi]('https://t.me/rezamoradishere')
 <br>
 
+![](https://img.shields.io/badge/-https://t.me/rezamoradishere-1b1b1b?logo=telegram&logoColor=white&labelColor=2a2a2a) <br/>
 Content Reference: [Khan Academy](https://www.khanacademy.org/)
