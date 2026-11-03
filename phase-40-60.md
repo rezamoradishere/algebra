@@ -30,12 +30,14 @@ $$ km = \frac{km}{m}\cdot m $$
 $$ d = r \cdot t $$
 
 ### :مثال اول
+
 $$ r = 5 \frac{m}{s} $$
 $$ t = 10s $$
 
 حالا بریم برای حل: 
 $$d = 5 \frac{m}{s} \cdot 10s$$
 $$d = 50m $$
+
 ---
 
 ### مثال دوم:
@@ -52,6 +54,7 @@ $$ d = 18.000m $$
 حالا اگر از ما کیلومتر بخوان چی؟؟؟
 
 $$ 18.000m\cdot\frac{1km}{1000m} = 18km $$
+
 ---
 
 ### مثال سوم: 
@@ -67,6 +70,7 @@ $$ r = \frac{150km}{3h} $$
 $$ r = 50\frac{km}{h} \Rightarrow 50\frac{km}{h} \cdot \frac{1000 \cdot m}{1 \cdot km} = 50.000\frac{m}{h} $$
 
 $$ r = 50\frac{km}{h} \Rightarrow \frac{50}{1}\frac{km}{h} \cdot \frac{1}{3600}\frac{h}{s} = \frac{1}{72} \cdot \frac{1000m}{72s} \approx 13.9\frac{m}{s}  $$
+
 ---
 
 ### سوال 2: حالا یه جدول داریم میخوایم بر اساس اون حرکت هایی که شرکت انجام(Input) چه خروجی هایی دریافت می کنه(Output)
@@ -119,6 +123,7 @@ $$ V = 4m^2 \cdot \frac{60}{100} = \frac{240}{100}m^3 = 2.4m^3 $$
 
 $$ Sara = 2\frac{cm}{week} $$
 $$ Martin = 3\frac{mm}{day} \Rightarrow 3\frac{mm}{day} \cdot 7\frac{day}{week} \Rightarrow 21\frac{mm}{week} \cdot \frac{1 \cdot cm}{10 \cdot mm} = 2.1cm $$
+
 ---
 
 > Measurements-Report

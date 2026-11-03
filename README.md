@@ -5,10 +5,13 @@
 The first persian documentation of Khan-Academy-Algebra, you can find and learn concept of algebra in here
 
 ## Table of Contents:
-00-20 - [Basic and Foundation's](https://github.com/AmirHossein1386sh/ml-tutorial-304/blob/reza/01-Algebra/phase-0-20.md)
+00-20 - [Basic and Foundation's](https://github.com/rezamoradishere/algebra/blob/main/phase-00-20.md)
 <br>
 
-20-40 - [Simple and Compound, Equivalent and Inequalities](https://github.com/AmirHossein1386sh/ml-tutorial-304/blob/reza/01-Algebra/phase-20-40.md)
+20-40 - [Simple and Compound, Equivalent and Inequalities](https://github.com/rezamoradishere/algebra/blob/main/phase-20-40.md)
+<br>
+
+40-60 - [Work with Units, Measurements-Report, Convert-Units](https://github.com/rezamoradishere/algebra/blob/main/phase-40-60.md)
 <br>
 
 Coming-Soon...
