@@ -1,4 +1,4 @@
-## Simple and Compound, Equivalent and Inequalities
+## 20-40: Simple and Compound, Equivalent and Inequalities
 
 > Simple Equivalent Equation's: Single (x)
 

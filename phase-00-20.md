@@ -1,6 +1,4 @@
-> 00-20: Foundation of Algebra.
-
-## Introduction of Algebra:
+## 00-20: Introduction of Algebra:
 
 ### مقدمات و توضیحات:
 
@@ -22,8 +20,6 @@ $$X = \frac{-b + \sqrt{b^2 - 4ac}}{2a}$$
 ---
 <br>
 
-> Video 01-20: Abstract
-
 ### انتزاع | Abstract: 
 
 کلمه ی Abstract یعنی به جای تمرکز روی یک شی یا عدد خاص روی ساختار قوانین و رابطه های کلی تمرکز کنیم. این نگاه کلی تر Abstract است.
@@ -43,8 +39,6 @@ $$ a + b = b + a $$
 
 ---
 <br>
-
-> Video 02-20: Linear Equation and Cartesian Coordinate
 
 ### مختصات دکارتی | Cartesian Coordinate:
 
@@ -68,8 +62,6 @@ $$ Y = 2X + 1 $$
 <p align="center">
     <img src="./assets/004.png" width="450px">
 </p>
-
-> Video 04-20: Varibles in Algebra
 
 ### متغیر | Variable:
 
@@ -116,8 +108,6 @@ $$ A = (\pi) * r^2 $$
 ---
 <br>
 
-> Video 06-20: Simplify the Equation Rules
-
 ### قوانین ساده سازی عبارت ها | Simplify Rules:
 
 در جبر برخی از عبارت ها را می توان تا جای که میشود به صورت ساده تر نوشت، برای ساده تر شدن و قابل فهم تر شدن این قسمت رو با مثال های بیشتر جلو میریم.
@@ -142,8 +132,6 @@ $$7(3y-5)-2(10+4y) = 21y - 35 - 20 - 8y = 13y - 55 $$
 
 ---
 <br>
-
-> Video 18-20: Division by 0 and 0/0 | Undefined
 
 ### تعریف نشده | Undefined: 
 در ریاضیات یک سری مسایل و عبارت ها چون مقدار واضح و درستی ندارند را تعریف نشده می گوییم.
