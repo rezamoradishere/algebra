@@ -4,6 +4,8 @@
 # Algebra
 The first persian documentation of Khan-Academy-Algebra, you can find and learn concept of algebra in here
 
+> for better support of LaTeX format for math notations you can clone this repo and open it into VS-Code or text editor that support this format.  
+
 ## Table of Contents:
 00-20 - [Basic and Foundation's](https://github.com/rezamoradishere/algebra/blob/main/phase-00-20.md)
 <br>
