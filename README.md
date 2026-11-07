@@ -19,6 +19,10 @@ The first persian documentation of Khan-Academy-Algebra, you can find and learn 
 60-80 - [Linear Equations(Slope, Intercepts, Coordinates)](https://github.com/rezamoradishere/algebra/blob/main/phase-60-80.md)
 <br>
 
+80-100 - [Write Linear Equations with Different Forms](https://github.com/rezamoradishere/algebra/blob/main/phase-80-100.md)
+<br>
+
+
 Coming-Soon...
 
 ---
