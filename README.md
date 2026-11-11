@@ -22,6 +22,9 @@ The first persian documentation of Khan-Academy-Algebra, you can find and learn 
 80-100 - [Write Linear Equations with Different Forms](https://github.com/rezamoradishere/algebra/blob/main/phase-80-100.md)
 <br>
 
+100-120 - [Solving the System of Linear Equations by Elimination and Substitution](https://github.com/rezamoradishere/algebra/blob/main/phase-100-120.md)
+<br>
+
 
 Coming-Soon...
 
